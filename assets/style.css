@@ -10,6 +10,9 @@ body {
 }
 
 header {
+    display: block;
+    position: fixed;
+    width: 100%;
     background-color: #003b6f;
     padding:20px;
     font-size:larger;
