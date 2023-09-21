@@ -20,6 +20,18 @@ header {
     border-bottom: 5px solid skyblue;
 }
 
+footer {
+    position:absolute;
+    display: box;
+    text-align: center;
+    width:100%;
+    height:30px;
+    padding-top: 5px;
+    bottom: 0%;
+    background-color: #003b6f;
+    color: white;
+}
+
 figure {
     text-align: center;
 }
@@ -47,15 +59,4 @@ form{
     margin-left: 785px;
 }
 
-footer {
-    position:absolute;
-    display: box;
-    text-align: center;
-    width:100%;
-    height:30px;
-    padding-top: 5px;
-    bottom: 0%;
-    background-color: #003b6f;
-    color: white;
-}
 
